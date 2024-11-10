@@ -5,7 +5,7 @@ import MainLayout from '@/components/layout/MainLayout'
 
 export const metadata: Metadata = {
   title: 'Training Program Dashboard',
-  description: 'KPI tracking for training programs',
+  description: 'Dashboard for tracking tourism and training programs',
 }
 
 export default function RootLayout({
